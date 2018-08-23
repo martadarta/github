@@ -1,0 +1,7 @@
+siteUrl = https://github.com/martadarta/github
+gitUrl = https://github.com/martadarta/github.git
+version = 0.0.0
+groupId = name.github
+licenses = ['GPL-3.0'] // or something else
+id = martadarta
+name = martadarta
